@@ -12,7 +12,20 @@
     "require": {
         "php": "^5.6 || ^7.0",
         "contao/core-bundle": "4.4.*",
-        "symfony/framework-bundle": "^3.3"
+        "symfony/framework-bundle": "^3.3",
+        "Himalaya/contao-hello-world-bundle": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Himalaya-0/contao-hello-world-bundle.git"
+        }
+    ],
+    "config": {
+        "preferred-install": {
+            "acme/*": "source",
+            "*": "dist"
+        }
     },
     "conflict": {
         "contao/core": "*",
