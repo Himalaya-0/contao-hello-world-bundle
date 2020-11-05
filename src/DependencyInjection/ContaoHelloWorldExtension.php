@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of [package name].
+ * This file is part of ContaoHelloWorldBundle.
  *
  * (c) Himalaya
  *
