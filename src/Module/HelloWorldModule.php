@@ -39,7 +39,7 @@ class HelloWorldModule extends Module
     }
 
     /**
-     * Generates the module.
+     * @inheritdoc
      */
     protected function compile()
     {
