@@ -1,5 +1,13 @@
 <?php
 
+/*
+ * This file is part of [package name].
+ *
+ * (c) Himalaya
+ *
+ * @license LGPL-3.0-or-later
+ */
+
 namespace Himalaya\ContaoHelloWorldBundle\Module;
 
 use Haste\Frontend\AbstractFrontendModule;
@@ -13,7 +21,7 @@ class HelloWorldModule extends AbstractFrontendModule
     protected $strTemplate = 'mod_helloWorld';
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     protected function compile()
     {

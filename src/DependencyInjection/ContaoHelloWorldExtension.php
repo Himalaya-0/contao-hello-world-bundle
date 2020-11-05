@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of ContaoHelloWorldBundle.
+ * This file is part of [package name].
  *
- * (c) John Doe
+ * (c) Himalaya
  *
  * @license LGPL-3.0-or-later
  */

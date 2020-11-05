@@ -2,6 +2,14 @@
 
 declare(strict_types=1);
 
+/*
+ * This file is part of [package name].
+ *
+ * (c) Himalaya
+ *
+ * @license LGPL-3.0-or-later
+ */
+
 namespace Himalaya\ContaoHelloWorlddBundle\Tests;
 
 use Himalaya\ContaoHelloWorldBundle\Library\MessageGenerator;
